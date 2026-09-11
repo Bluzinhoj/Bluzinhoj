@@ -1,7 +1,6 @@
 # Hi, I'm Blu! 👋
 
 🎓 Computer Science student at **UFBA** (Federal University of Bahia), based in Salvador, Brazil
-📐 Studying advanced mathematics (Calculus, Linear Algebra, Discrete Math) and Computer Architecture
 🎯 Looking for opportunities in **Data Engineering**, building toward a strong infrastructure background
 
 ---
@@ -9,10 +8,10 @@
 ### 🚀 About me
 
 - 💻 I code in **C++**, **Python**, and **Java**
-- 📊 Currently learning **SQL**, with a roadmap toward Data Engineering (Python for data → Airflow → AWS → Databricks/Terraform)
-- 🏆 Active **Competitive Programmer** — graphs, dynamic programming, binary search on answer, Dijkstra/Bellman-Ford
-- 🎮 Game development in **Godot Engine**, exploring modular architectures (Mediator Pattern) and MMO-scale interests (ECS, server-side C++/Rust, Kubernetes/Agones)
-- 🐧 Daily driver: **Fedora Linux (KDE)**
+- 📊 Currently learning **SQL** and **fullstack development**. with a roadmap toward Data Engineering (Python for data → Airflow → AWS → Databricks/Terraform)
+- 🏆 Active **Competitive Programmer** — graphs, dynamic programming, binary search on answer, Dijkstra/Bellman-Ford, etc.
+- 🎮 Game development as a hobby in **Godot Engine**, exploring modular architectures (Mediator Pattern) and MMO-scale interests
+- 🐧 Daily driver: **Windows + WSL(ubuntu)**
 
 ---
 
@@ -32,21 +31,19 @@
 ### 📚 Currently studying
 
 - SQL and Data Engineering fundamentals (working toward AWS, Airflow, Databricks, Terraform)
-- Discrete Math II — modular arithmetic, congruences, number theory
-- Linear Algebra — eigenspaces, linear transformations, diagonalization
-- Graph algorithms for competitive programming
+- Fullstack webdev - HTML, CSS, JS, TS, React, Node.js
 
 ---
 
 ### 🎯 Career goal
 
-Aiming for a **Data Engineer role with strong infrastructure DNA**, in an environment that values autonomy, technical respect, and room to grow toward real excellence in the tools I use.
+Aiming for a **Data Engineer role with strong infrastructure DNA**, in an environment that values autonomy, technical respect, and room to grow toward real excellence.
 
 ---
 
 ### 🎨 Beyond code
 
-When I'm not coding, I enjoy **digital illustration**, gaming (Undertale, Dying Light, Minecraft, Final Fantasy XIV), and anime/manga (Re:Zero, Solo Leveling, Code Geass).
+When I'm not coding, I enjoy gaming (Undertale, Dying Light, Minecraft, Final Fantasy XIV), anime/manga (Re:Zero, Code Geass, Cowboy Bepop), movies and shows (Lord of the rings, star wars, rings of power).
 
 ---
 
