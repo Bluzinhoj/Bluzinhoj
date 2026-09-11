@@ -8,7 +8,7 @@
 ### 🚀 About me
 
 - 💻 I code in **C++**, **Python**, and **Java**
-- 📊 Currently learning **SQL** and **fullstack development**. with a roadmap toward Data Engineering (Python for data → Airflow → AWS → Databricks/Terraform)
+- 📊 Currently **fullstack development**. with a roadmap toward building a strong portfolio.
 - 🏆 Active **Competitive Programmer** — graphs, dynamic programming, binary search on answer, Dijkstra/Bellman-Ford, etc.
 - 🎮 Game development as a hobby in **Godot Engine**, exploring modular architectures (Mediator Pattern) and MMO-scale interests
 - 🐧 Daily driver: **Windows + WSL(ubuntu)**
@@ -30,7 +30,7 @@
 
 ### 📚 Currently studying
 
-- SQL and Data Engineering fundamentals (working toward AWS, Airflow, Databricks, Terraform)
+- SQL and Data Engineering fundamentals
 - Fullstack webdev - HTML, CSS, JS, TS, React, Node.js
 
 ---
